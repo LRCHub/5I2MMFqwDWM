@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛してる キミをみて",
+  "base_artist": "SPICY CHOCOLATE",
+  "createdAt": "2026-03-28T10:32:08.681045Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛してる キミをみて",
+      "artist": "SPICY CHOCOLATE, SOUTH BLUE, VILLSHANA",
+      "has_synced": false,
+      "path": "select/pl_01_愛してる_キミをみて_SPICY_CHOCOLATE,_SOUTH_BLUE,_VILLSHANA.txt"
+    }
+  ]
+}
